@@ -12,7 +12,9 @@
 这些函数我们到处在用，可你有没有想过，究竟这些函数是怎么声明和定义的？他们远没有你想的那么简单。
 
 **以下被划掉的部分如果你理解，那是最好。不理解不可以不用纠结，~~慢慢来~~**
+
 ![](https://img-blog.csdnimg.cn/20200206205235611.jpg)
+
 ### （一）putchar & getchar
 #### putchar
 >`int putchar( int ch )`
@@ -718,6 +720,7 @@ int main() {
 
 ### 写在后面
 ![](https://img-blog.csdnimg.cn/20200208222045318.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
 说了半天，其实就是想带大家过一遍我们常用的字符串函数。
 
 里面肯定有你忽略的知识点，希望大家**一定不要放过一些细节**，**一定要多想**，**一定要多写代码**。
@@ -752,7 +755,7 @@ Github会在 **公众号上发布 1~2天后**发布。
 
 关注我的公众号，获取第一时间更新：
 
-![扫码关注我！！](https://img-blog.csdnimg.cn/20200211141933317.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70 =400x400)
+![扫码关注我！！](https://img-blog.csdnimg.cn/20200211141933317.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
 
 
 以上，感谢观看！
