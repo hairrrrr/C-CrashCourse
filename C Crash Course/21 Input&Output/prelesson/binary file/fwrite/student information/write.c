@@ -52,7 +52,7 @@ void getList(Student* Stu, int num) {
 int save(Student* Stu, int num) {
 
 	int ret = -1;
-	FILE* fp = fopen("student.data", "wx");
+	FILE* fp = fopen("student.data", "wx");//如果要向student.data反复写入数据，将 wx 改为 x
 	if (fp) {
 		ret = fwrite(Stu, sizeof(Student), num, fp);
 		//记录 fwrite 的返回值：写入文件的学生个数
