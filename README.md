@@ -16,7 +16,7 @@
 	
 ## 导航 Navigation 
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/MOOC/nav.md">01 MOOC 网课整理</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/02%20Basic%20Conception">02 Classic Books 好书整理</a>
+#### <a href="#">02 Classic Books 好书整理 目录如下👇👇👇</a>
 	
 </div>
 
