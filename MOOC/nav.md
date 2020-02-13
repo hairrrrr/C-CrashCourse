@@ -24,10 +24,10 @@
     * [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
  9. 字符串
       * [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
-      * [常用字符串函数详解](https://mp.weixin.qq.com/s/CrInWDeD5k_XNvPzcgI06Q)
+      * [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
  10. ACLLib的基本图形函数 
  11. 结构类型（联合&枚举&结构）
- 12. 程序结构
+ 12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
  13. 文件
  14. 链表
  
