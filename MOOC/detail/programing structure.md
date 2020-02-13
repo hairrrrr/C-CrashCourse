@@ -376,8 +376,24 @@ int main(void) {
 >
 
 可以看到 .i 文件时很大
-![我们看看 .i 文件的 结尾部分](https://img-blog.csdnimg.cn/20200211005244118.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
-![对比 .c 文件](https://img-blog.csdnimg.cn/20200211005330453.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211005244118.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>我们看看 .i 文件的 结尾部分</p>
+
+</div>
+
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211005330453.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>对比 .c 文件</p>
+
+</div>
+
 **我们发现程序中的宏 PI 被换成了它所表示的 数字**
 
 这种替换是**简单的文本替换**，我们再试试其他的替换方式：
