@@ -1,0 +1,24 @@
+1. 变量
+2. 表达式
+3. 判断
+4. 循环
+     *  while 与 do while
+     * for
+5. 数据类型
+    * 编程练习
+    * 数据类型
+    * 其他运算：逻辑， 条件， 逗号
+6. [函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
+7. [数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
+8. 指针 
+    * [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
+    * [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
+    * [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
+ 9. 字符串
+      * [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
+      * [常用字符串函数详解](https://mp.weixin.qq.com/s/CrInWDeD5k_XNvPzcgI06Q)
+ 10. ACLLib的基本图形函数 
+ 11. 结构类型（联合&枚举&结构）
+ 12. 程序结构
+ 13. 文件
+ 14. 链表
