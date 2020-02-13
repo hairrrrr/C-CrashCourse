@@ -1,3 +1,10 @@
+## Introduce 介绍
+
+C语言必知必会系列教程
+
+C语言自学全网最全资料。
+
+
 <div align="center">
     <a href="#"> <img src="https://img.shields.io/badge/language-C-orange"></a>
     <a href="#weixin"> <img src="https://img.shields.io/badge/QQ%E7%BE%A4%E5%8F%B7-1040522517-blue"></a>
