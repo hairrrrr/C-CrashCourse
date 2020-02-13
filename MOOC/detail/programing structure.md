@@ -275,12 +275,14 @@ void g(void) {
 - 最好的做法是**返回传入的指针**
 
 说了这么多，总结一句话
+
 ###### 尽量避免使用 全局变量 和 静态本地变量
+
 <div align = "center">
-	
+
 ![？？？](https://img-blog.csdnimg.cn/20200211000341388.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
 
-<p>???</p>
+<p>？？？</p>
 
 </div>
 
@@ -321,18 +323,55 @@ int main(void) {
 }
 ```
 现在，我们打开我们的虚拟机，进入 Linux 系统。
-![1.创建一个 c文件](https://img-blog.csdnimg.cn/20200211003555492.png)
 
-![2.写一个简单的带宏的 c程序](https://img-blog.csdnimg.cn/20200211005048362.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+<div align = "center">
 
-![3.这时后我们成功创建了一个 c文件](https://img-blog.csdnimg.cn/20200211003635685.png)
+![](https://img-blog.csdnimg.cn/20200211003555492.png)
 
-![4.编译c文件，并保留中间文件](https://img-blog.csdnimg.cn/20200211003754529.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+<p>1.创建一个 c文件</p>
+
+</div>
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211005048362.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>2.写一个简单的带宏的 c程序</p>
+
+</div>
+
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211003635685.png)
+
+<p>3.这时后我们成功创建了一个 c文件</p>
+
+</div>
+
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211003754529.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>4.编译c文件，并保留中间文件</p>
+
+</div>
+
+
 现在多出来了 4 个文件，蓝色的是文件夹，我们不去管它，绿色的是可执行文件，类似 windows 的 .exe 文件
 现在我们主要关注这 3 个中间文件
 
-![文件详细情况](https://img-blog.csdnimg.cn/20200211003955771.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211003955771.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>文件详细情况</p>
+
+</div>
+
 一个 c文件编译的过程文件变化是这样的：
+
 >`.c `（处理编译预处理指令）-> `.i `（产生汇编代码）-> `.s`（汇编生成目标文件） -> `.o`（链接等） -> `a.out `
 >
 
@@ -343,11 +382,41 @@ int main(void) {
 
 这种替换是**简单的文本替换**，我们再试试其他的替换方式：
 
-![替换字符串](https://img-blog.csdnimg.cn/20200211010337202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
-![FRORMAT 同样被替换了](https://img-blog.csdnimg.cn/20200211010437762.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211010337202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>替换字符串</p>
+
+</div>
+
 我们再试试这样，定义宏的时候 不带双引号：
-![编译器给了 warning](https://img-blog.csdnimg.cn/20200211010618834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
-![FORMAT并没有被替换](https://img-blog.csdnimg.cn/20200211010833810.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211010437762.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>FRORMAT 同样被替换了</p>
+
+</div>
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211010618834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>编译器给了 warning</p>
+
+</div>
+
+
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211010833810.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>FORMAT并没有被替换</p>
+
+</div>
+
 因此可知，**被 `" "`扩起来的字符串 宏 是不会替换的**
 
 ###### 总结
@@ -397,7 +466,9 @@ Feb 11 2020 04:12:57
 你们在熟睡，而我还在给你们写教学，关注我/点个赞/转发 不过分吧~
 
 ![](https://img-blog.csdnimg.cn/2020021104154880.gif)
+
 #### 带参数的宏
+
 - `#define cube(x) ( (x) * (x) * (x) )`
 
 例如：
@@ -440,7 +511,14 @@ int main(void) {
 ```
 为什么会这样呢？我们不妨来看一下，`.i`文件内部：
 
-![注意运算顺序](https://img-blog.csdnimg.cn/20200211043539513.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+<div align = "center">
+
+![](https://img-blog.csdnimg.cn/20200211043539513.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0OTU0MDEw,size_16,color_FFFFFF,t_70)
+
+<p>注意运算顺序</p>
+
+</div>
+
 **定义带参数的宏的原则**
 - 一切都要有括号
    - 整个值有括号
