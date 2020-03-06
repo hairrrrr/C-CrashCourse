@@ -37,27 +37,29 @@ C语言自学全网最全资料。
 
 ### 慕课篇
 
+***
+
 #### 适合人群：快速了解C语言并且掌握一定的深度的知识（应付期末考试足够）路线以翁恺老师的MOOC为主
 
 #### 1. 变量
 #### 2. 表达式
 #### 3. 判断
 #### 4. 循环
-     *  while 与 do while
-     * for
+     - while 与 do while
+     - for
 #### 5. 数据类型
-    * 编程练习
-    * 数据类型
-    * 其他运算：逻辑， 条件， 逗号
+-  编程练习
+ - 数据类型
+ - 其他运算：逻辑， 条件， 逗号
 #### 6. [函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
 #### 7. [数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
 #### 8. 指针 
-    * [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
-    * [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
-    * [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
+    - [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
+    - [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
+    - [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
 ####  9. 字符串
-      * [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
-      * [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
+      -  [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
+      - [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
  #### 10. ACLLib的基本图形函数 
  #### 11. 结构类型（联合&枚举&结构）
  #### 12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
@@ -67,9 +69,13 @@ C语言自学全网最全资料。
 
 </div>
 
+<br>
+
 <div id="ccc">
 
 ### C语言入门到精通篇
+
+***
 
 #### 适合人群：零基础入门，并且想精通C语言
 
@@ -90,9 +96,13 @@ C语言自学全网最全资料。
 
 </div>
 
+<br>
+
 <div id="ac">
 
 ### C语言进阶篇
+
+***
 
 #### 适合人群：想要深挖指针与内存
 
