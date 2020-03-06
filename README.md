@@ -23,14 +23,55 @@ C语言自学全网最全资料。
 <div>
 	
 ## 导航 Navigation 
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/MOOC/nav.md">01 MOOC 网课整理</a>
-#### <a href="#">02 Classic Books 好书整理 目录如下👇👇👇</a>
+#### <a href="#cmooc">01 慕课篇</a>
+#### <a href="#ccc">02 C语言入门到精通篇</a>
+#### <a href="#ac">03 C语言进阶篇</a>
 	
 </div>
 
 <div>
 
 ## 目录  Catalogue
+
+<div id="cmooc">
+
+### 慕课篇
+
+#### 适合人群：快速了解C语言并且掌握一定的深度的知识（应付期末考试足够）路线以翁恺老师的MOOC为主
+
+#### 1. 变量
+#### 2. 表达式
+#### 3. 判断
+#### 4. 循环
+     *  while 与 do while
+     * for
+#### 5. 数据类型
+    * 编程练习
+    * 数据类型
+    * 其他运算：逻辑， 条件， 逗号
+#### 6. [函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
+#### 7. [数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
+#### 8. 指针 
+    * [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
+    * [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
+    * [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
+####  9. 字符串
+      * [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
+      * [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
+ #### 10. ACLLib的基本图形函数 
+ #### 11. 结构类型（联合&枚举&结构）
+ #### 12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
+ #### 13. 文件
+ #### 14. 链表
+
+
+</div>
+
+<div id="ccc">
+
+### C语言入门到精通篇
+
+#### 适合人群：零基础入门，并且想精通C语言
 
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/01%20C%20Language%20Overview">01 C Language Overview C语言概论</a>
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/02%20Basic%20Conception">02 Basic Conception 基本概念</a>
@@ -46,6 +87,21 @@ C语言自学全网最全资料。
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/13%20String">13 String 字符串</a>
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/16%20Sturcture%26Union%26Enum">16 Structure&Union&Enum 结构&联合&枚举</a>
 #### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/17%20Advanced%20Pointer">17 Advanced Pointer 指针的高级应用</a>
+
+</div>
+
+<div id="ac">
+
+### C语言进阶篇
+
+#### 适合人群：想要深挖指针与内存
+
+#### <a href="#">01 数据存储</a>
+#### <a href="#">02 指针进阶 </a>
+#### <a href="#"> </a>
+#### <a href="#"> </a>
+
+</div>
 
 </div>
 
