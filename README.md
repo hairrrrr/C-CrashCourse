@@ -26,6 +26,12 @@ C语言自学全网最全资料。
 #### <a href="#cmooc">01 慕课篇</a>
 #### <a href="#ccc">02 C语言入门到精通篇</a>
 #### <a href="#ac">03 C语言进阶篇</a>
+
+<br>
+
+
+#### <a href="#answer">答案</a>
+#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code">代码目录</a>
 	
 </div>
 
@@ -116,6 +122,21 @@ C语言自学全网最全资料。
 #### <a href="#">02 指针进阶 </a>
 #### <a href="#"> </a>
 #### <a href="#"> </a>
+
+</div>
+
+<div id="answer">
+
+### 答案
+
+***
+
+
+<br>
+
+#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/C_Crash_Couse">入门到精通篇答案</a>
+#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/advanced%20C">进阶篇答案</a>
+#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/CMOOC">慕课篇答案</a>
 
 </div>
 
