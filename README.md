@@ -1,4 +1,4 @@
-## Introduce 介绍
+## 介绍  Introduce
 
 C语言必知必会系列教程。
 
@@ -99,11 +99,11 @@ C语言自学全网最全资料。
 
 <br>
 
-#### <a href="#"></a>
-#### <a href=""></a>
-#### <a href=""></a>
-#### <a href=""></a>
-#### <a href=""></a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">01 C语言概述</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483896&idx=1&sn=e994c80cba804adf59b4aa284d34168d&chksm=9b51aa69ac26237fa0944591978f64e074412312c8daca355de1c7bf40198c9035abb4b73e8d&scene=21#wechat_redirect">02 基本概念（上）</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483914&idx=1&sn=3a4e7c56344ba229fe1c346a7082f92f&chksm=9b51a99bac26208dd30f8fd630252d9ef246630482214242d97106058fd8d9a3a58efa217e2b&scene=21#wechat_redirect">03 基本概念（下）</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=1&sn=f5d2bd63a580ed88487c07e4339ce889&chksm=9b51a954ac262042e5500703ce57d72db75b345383de55de61a942a5974f7661b7b491265cb6&scene=21#wechat_redirect">04 格式化输入/输出</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=2&sn=3cf5d4ff5c506cf95c40a5ad8f0c41fd&chksm=9b51a954ac26204249072758935b7778db1644f0055c874e81f82c716f9c24872ee505767b83&scene=21#wechat_redirect">05 数据类型</a>
 #### <a href=""></a>
 
 </div>
