@@ -51,7 +51,7 @@ C语言自学全网最全资料。
 
 <div id="cmooc">
 
-### 慕课篇
+### MOOC
 
 ***
 
@@ -61,8 +61,8 @@ C语言自学全网最全资料。
 
 #### 1. 变量
 #### 2. 表达式
-#### 3. 判断
-#### 4. 循环
+#### 3. [运算符](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=2&sn=5601148e1ea9ccffc8781b1fa00f31d1&chksm=9b51a906ac2620100bfa39e5e1154f0faf1a0736649b49e8285ee20899302587d8cd88cb7ea4&scene=21#wechat_redirect)
+#### 4. 分支与循环
  - while 与 do while
  - for
 #### 5. 数据类型
@@ -79,9 +79,9 @@ C语言自学全网最全资料。
   -  [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
   - [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
  #### 10. ACLLib的基本图形函数 
- #### 11. 结构类型（联合&枚举&结构）
+ #### 11. [结构类型（联合&枚举&结构）](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483829&idx=1&sn=1e1420548b80bdd3d70ba1078fb29b70&chksm=9b51aa24ac262332a074bf0018e8ef4e2b4a7d732a57828714d0fcbddc9cb5fb2823427bc58b&scene=21#wechat_redirect)
  #### 12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
- #### 13. 文件
+ #### 13. [文件](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=3&sn=79d7d042b7e94221d38b6fc326d59d32&chksm=9b51a906ac2620100030cf57648bb4810eba0f5d180ba4f59349edcff4d9d673ad53dd2d5da5&scene=21#wechat_redirect)
  #### 14. 链表
 
 
@@ -91,7 +91,7 @@ C语言自学全网最全资料。
 
 <div id="ccc">
 
-### C语言入门到精通篇
+### C语言入门到精通
 
 ***
 
@@ -99,20 +99,12 @@ C语言自学全网最全资料。
 
 <br>
 
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/01%20C%20Language%20Overview">01 C Language Overview C语言概论</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/02%20Basic%20Conception">02 Basic Conception 基本概念</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/03%20Formatted%20Input%26Output">03 Formatted Input&Output 格式化的输入输出</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/04%20Expression">04 Expression 表达式</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/05%20Select%20Statement">05 Select Statement 选择语句</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/06%20Loop">06 Loop 循环</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/07%20Data%20Type">07 Data Type 数据类型</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/08%20Array">08 Array 数组</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/09%20Function">09 Function 函数</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/11%20Pointer">11 Pointer 指针</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/12%20Pointer%26Array">12 Pointer&Array 指针与数组</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/13%20String">13 String 字符串</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/16%20Sturcture%26Union%26Enum">16 Structure&Union&Enum 结构&联合&枚举</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/C%20Crash%20Course/17%20Advanced%20Pointer">17 Advanced Pointer 指针的高级应用</a>
+#### <a href=""></a>
+#### <a href=""></a>
+#### <a href=""></a>
+#### <a href=""></a>
+#### <a href=""></a>
+#### <a href=""></a>
 
 </div>
 
@@ -120,7 +112,7 @@ C语言自学全网最全资料。
 
 <div id="ac">
 
-### C语言进阶篇
+### C语言进阶
 
 ***
 
@@ -128,14 +120,28 @@ C语言自学全网最全资料。
 
 <br>
 
-#### <a href="#">01 数据存储</a>
-#### <a href="#">02 指针进阶 </a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">01 数据存储</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483941&idx=1&sn=de00219bee72cb8359492bdfb23f09ce&chksm=9b51a9b4ac2620a204daa3dd3e2109ce1f6008774d18be45d2e8816259b1ce5084be3331e569&scene=21#wechat_redirect">02 指针进阶 </a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=1&sn=25a1160599c122a40981e6b15108fd4d&chksm=9b51a919ac26200f6e5a7f9892d9a6fb335ce92dc81f90fff28f0666722538942721666610a7&scene=21#wechat_redirect">03 字符串函数与内存函数 </a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=2&sn=b0efd5aba03ee66785215f4962574e9a&chksm=9b51a919ac26200f2a66409f40198cb4a2e037c6e6ea44833890bd5d62f9705e1892f06cb3cf&scene=21#wechat_redirect">04 内存对齐 </a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=1&sn=7b650d73481e3a2053d4ff8ba22c599f&chksm=9b51a906ac262010c29630cae99a48ead4f097ceb54c963d9477cdb88e77e0553b077f431e9e&scene=21#wechat_redirect">05  动态内存管理</a>
 #### <a href="#"> </a>
+
+<br>
+
+##### 习题
+
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483953&idx=1&sn=ce828f49857ea9ee9c5867bdd8da4b0b&chksm=9b51a9a0ac2620b68cb088f20663dc2f050020f0f55b4aad2184cc087ea80c80655e92dcbb2d&scene=21#wechat_redirect"> 习题一</a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484031&idx=1&sn=bac544d518e0fece10e788122d5fed7a&chksm=9b51a9eeac2620f840317d0860560ed9c5af586d215d5dfd06bd81bcef5db96cfbde71e5d772&scene=21#wechat_redirect">习题二 </a>
+#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484012&idx=1&sn=504becb6eb2d3939b16109b5f388ca1e&chksm=9b51a9fdac2620eb0e6addf0b98c44391cdc5ed0bb6f3c72d52e61edb1505d5f9503c5d3038c&scene=21#wechat_redirect">小项目：C 语言实现的简易版通讯录 </a>
 #### <a href="#"> </a>
 
 </div>
 
 <div id="answer">
+
+<br>
+
 
 ### 答案
 
