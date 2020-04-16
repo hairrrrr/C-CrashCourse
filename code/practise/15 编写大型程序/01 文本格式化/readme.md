@@ -39,3 +39,5 @@ variety of environments. -- Dennis M. Ritchie
 按行输出我们创建 line.h 和 line.c
 
 最后用 justify.c 包含 main 函数
+
+![](./重定向.png)
