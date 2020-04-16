@@ -17,7 +17,7 @@ int main(void) {
 		// 允许 read_word 函数多读 1 个字符，多读则代表单词长度超过 20，需要截断
 		read_word(word, MAX_WORD_LEN + 1);
 		word_len = strlen(word);
-		if (word == 0) {
+		if (word_len == 0) {
 			flush_line();
 			return 0;
 		}

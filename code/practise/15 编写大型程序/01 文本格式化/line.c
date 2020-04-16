@@ -47,7 +47,7 @@ void write_line() {
 			putchar(line[i]);
 		else {
 			spaces_to_insert = extra_space / num_words; // 遵循这个公式来增加空格
-			for (j = 0; j < spaces_to_insert; j++)
+			for (j = 0; j <= spaces_to_insert; j++) // 使用 = 确保至少打印一个
 				putchar(' ');
 			extra_space -= spaces_to_insert;
 			num_words--;
