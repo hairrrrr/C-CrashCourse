@@ -1,0 +1,4 @@
+If two people write exactly the same program, each should be put in
+micro-code and then they certainly won't be the same.
+					-- epigrams-on-programming
+					Time:4/21/2020
