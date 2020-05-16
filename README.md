@@ -39,9 +39,7 @@ C语言自学全网最全资料。
 
 <br>
 
-
-#### <a href="#answer">答案</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code">代码目录</a>
+#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">示例，练习等代码目录</a>
 	
 </div>
 
@@ -57,32 +55,45 @@ C语言自学全网最全资料。
 
 #### 适合人群：快速了解C语言并且掌握一定的深度的知识（应付期末考试足够）路线以翁恺老师的MOOC为主
 
-<br>
 
-#### 1. 变量
-#### 2. 表达式
-#### 3. [运算符](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=2&sn=5601148e1ea9ccffc8781b1fa00f31d1&chksm=9b51a906ac2620100bfa39e5e1154f0faf1a0736649b49e8285ee20899302587d8cd88cb7ea4&scene=21#wechat_redirect)
-#### 4. 分支与循环
+
+1. 变量
+
+2. 表达式
+
+3. [运算符](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=2&sn=5601148e1ea9ccffc8781b1fa00f31d1&chksm=9b51a906ac2620100bfa39e5e1154f0faf1a0736649b49e8285ee20899302587d8cd88cb7ea4&scene=21#wechat_redirect)
+
+4. 分支与循环
  - while 与 do while
  - for
-#### 5. 数据类型
+
+ 5. 数据类型
  -  编程练习
  - 数据类型
  - 其他运算：逻辑， 条件， 逗号
-#### 6. [函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
-#### 7. [数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
-#### 8. 指针 
+
+6. [函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
+
+7. [数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
+
+8. 指针 
  - [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
  - [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
  - [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
-####  9. 字符串
+
+9. 字符串
   -  [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
   - [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
- #### 10. ACLLib的基本图形函数 
- #### 11. [结构类型（联合&枚举&结构）](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483829&idx=1&sn=1e1420548b80bdd3d70ba1078fb29b70&chksm=9b51aa24ac262332a074bf0018e8ef4e2b4a7d732a57828714d0fcbddc9cb5fb2823427bc58b&scene=21#wechat_redirect)
- #### 12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
- #### 13. [文件](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=3&sn=79d7d042b7e94221d38b6fc326d59d32&chksm=9b51a906ac2620100030cf57648bb4810eba0f5d180ba4f59349edcff4d9d673ad53dd2d5da5&scene=21#wechat_redirect)
- #### 14. 链表
+ 
+10. ACLLib的基本图形函数 
+ 
+ 11. [结构类型（联合&枚举&结构）](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483829&idx=1&sn=1e1420548b80bdd3d70ba1078fb29b70&chksm=9b51aa24ac262332a074bf0018e8ef4e2b4a7d732a57828714d0fcbddc9cb5fb2823427bc58b&scene=21#wechat_redirect)
+
+12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
+
+13. [文件](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=3&sn=79d7d042b7e94221d38b6fc326d59d32&chksm=9b51a906ac2620100030cf57648bb4810eba0f5d180ba4f59349edcff4d9d673ad53dd2d5da5&scene=21#wechat_redirect)
+
+14. 链表
 
 
 </div>
@@ -97,7 +108,6 @@ C语言自学全网最全资料。
 
 #### 适合人群：零基础入门，并且想精通C语言
 
-<br>
 
 #### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">01 C语言概述</a>
 #### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483896&idx=1&sn=e994c80cba804adf59b4aa284d34168d&chksm=9b51aa69ac26237fa0944591978f64e074412312c8daca355de1c7bf40198c9035abb4b73e8d&scene=21#wechat_redirect">02 基本概念（上）</a>
@@ -118,7 +128,6 @@ C语言自学全网最全资料。
 
 #### 适合人群：想要深挖指针与内存
 
-<br>
 
 #### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">01 数据存储</a>
 #### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483941&idx=1&sn=de00219bee72cb8359492bdfb23f09ce&chksm=9b51a9b4ac2620a204daa3dd3e2109ce1f6008774d18be45d2e8816259b1ce5084be3331e569&scene=21#wechat_redirect">02 指针进阶 </a>
