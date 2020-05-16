@@ -85,13 +85,13 @@ C 语言详细教学。
 
 9. 字符串
   -  [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
-  - [常用字符串函数详解](https://github.com/hairrrrr/C-CrashCourse/blob/63f913871c6d2ca0daa1353dead08b75aa7f24a6/C%20Crash%20Course/13%20String/Prelesson/ten-common-used-string-func.md)
+  - [常用字符串函数详解](https://mp.weixin.qq.com/s/CrInWDeD5k_XNvPzcgI06Q)
  
 10. ACLLib的基本图形函数 
  
  11. [结构类型（联合&枚举&结构）](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483829&idx=1&sn=1e1420548b80bdd3d70ba1078fb29b70&chksm=9b51aa24ac262332a074bf0018e8ef4e2b4a7d732a57828714d0fcbddc9cb5fb2823427bc58b&scene=21#wechat_redirect)
 
-12. [程序结构](https://github.com/hairrrrr/C-CrashCourse/tree/master/MOOC/detail)
+12. [程序结构](https://mp.weixin.qq.com/s/YLNJsWLhDyO7wxTqg-wShw)
 
 13. [文件](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=3&sn=79d7d042b7e94221d38b6fc326d59d32&chksm=9b51a906ac2620100030cf57648bb4810eba0f5d180ba4f59349edcff4d9d673ad53dd2d5da5&scene=21#wechat_redirect)
 
