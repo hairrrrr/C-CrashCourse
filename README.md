@@ -38,8 +38,8 @@ C语言自学全网最全资料。
  - <a href="#ccc">02 C 语言入门到精通</a>
  - <a href="#ac">03 C 语言进阶</a>
 #### 站在巨人的肩膀上学习 C 语言
-- <a href="">《C 陷阱与缺陷》</a>
-- <a href="">《C 专家编程》</a>
+- <a href="#ctap">《C 陷阱与缺陷》</a>
+- <a href="#ecp">《C 专家编程》</a>
 
 <br>
 
@@ -150,19 +150,24 @@ C语言自学全网最全资料。
  
 <a href="#"> </a>
 
-<br>
-
-##### 习题
-
- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483953&idx=1&sn=ce828f49857ea9ee9c5867bdd8da4b0b&chksm=9b51a9a0ac2620b68cb088f20663dc2f050020f0f55b4aad2184cc087ea80c80655e92dcbb2d&scene=21#wechat_redirect"> 习题一</a>
-
-<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484031&idx=1&sn=bac544d518e0fece10e788122d5fed7a&chksm=9b51a9eeac2620f840317d0860560ed9c5af586d215d5dfd06bd81bcef5db96cfbde71e5d772&scene=21#wechat_redirect">习题二 </a>
-
- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484012&idx=1&sn=504becb6eb2d3939b16109b5f388ca1e&chksm=9b51a9fdac2620eb0e6addf0b98c44391cdc5ed0bb6f3c72d52e61edb1505d5f9503c5d3038c&scene=21#wechat_redirect">小项目：C 语言实现的简易版通讯录 </a>
- 
-<a href="#"> </a>
 
 </div>
+
+<br>
+
+
+
+<div id="ctap">
+<a href=""> </a>
+</div>
+
+<br>
+
+<div id="ecp">
+<a href=""> </a>
+</div>
+
+
 
 
 </div>
