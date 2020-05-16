@@ -40,10 +40,8 @@ C 语言详细教学。
 #### 站在巨人的肩膀上学习 C 语言
 - <a href="#ctap">《C 陷阱与缺陷》</a>
 - <a href="#ecp">《C 专家编程》</a>
-
-<br>
-
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">示例，练习等代码目录</a>
+####  码海无涯 
+<a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">示例，练习等代码目录</a>
 	
 </div>
 
