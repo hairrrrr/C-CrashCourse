@@ -33,9 +33,13 @@ C语言自学全网最全资料。
 <div>
 	
 ## 导航 Navigation 
-#### <a href="#cmooc">01 慕课篇</a>
-#### <a href="#ccc">02 C语言入门到精通篇</a>
-#### <a href="#ac">03 C语言进阶篇</a>
+#### C 语言基础
+ - <a href="#cmooc">01 C 慕课</a>
+ - <a href="#ccc">02 C 语言入门到精通</a>
+ - <a href="#ac">03 C 语言进阶</a>
+#### 站在巨人的肩膀上学习 C 语言
+- <a href="">《C 陷阱与缺陷》</a>
+- <a href="">《C 专家编程》</a>
 
 <br>
 
@@ -109,12 +113,17 @@ C语言自学全网最全资料。
 #### 适合人群：零基础入门，并且想精通C语言
 
 
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">01 C语言概述</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483896&idx=1&sn=e994c80cba804adf59b4aa284d34168d&chksm=9b51aa69ac26237fa0944591978f64e074412312c8daca355de1c7bf40198c9035abb4b73e8d&scene=21#wechat_redirect">02 基本概念（上）</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483914&idx=1&sn=3a4e7c56344ba229fe1c346a7082f92f&chksm=9b51a99bac26208dd30f8fd630252d9ef246630482214242d97106058fd8d9a3a58efa217e2b&scene=21#wechat_redirect">03 基本概念（下）</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=1&sn=f5d2bd63a580ed88487c07e4339ce889&chksm=9b51a954ac262042e5500703ce57d72db75b345383de55de61a942a5974f7661b7b491265cb6&scene=21#wechat_redirect">04 格式化输入/输出</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=2&sn=3cf5d4ff5c506cf95c40a5ad8f0c41fd&chksm=9b51a954ac26204249072758935b7778db1644f0055c874e81f82c716f9c24872ee505767b83&scene=21#wechat_redirect">05 数据类型</a>
-#### <a href=""></a>
+ <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">01 C语言概述</a>
+ 
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483896&idx=1&sn=e994c80cba804adf59b4aa284d34168d&chksm=9b51aa69ac26237fa0944591978f64e074412312c8daca355de1c7bf40198c9035abb4b73e8d&scene=21#wechat_redirect">02 基本概念（上）</a>
+
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483914&idx=1&sn=3a4e7c56344ba229fe1c346a7082f92f&chksm=9b51a99bac26208dd30f8fd630252d9ef246630482214242d97106058fd8d9a3a58efa217e2b&scene=21#wechat_redirect">03 基本概念（下）</a>
+ 
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=1&sn=f5d2bd63a580ed88487c07e4339ce889&chksm=9b51a954ac262042e5500703ce57d72db75b345383de55de61a942a5974f7661b7b491265cb6&scene=21#wechat_redirect">04 格式化输入/输出</a>
+
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=2&sn=3cf5d4ff5c506cf95c40a5ad8f0c41fd&chksm=9b51a954ac26204249072758935b7778db1644f0055c874e81f82c716f9c24872ee505767b83&scene=21#wechat_redirect">05 数据类型</a>
+
+ <a href=""></a>
 
 </div>
 
@@ -129,41 +138,32 @@ C语言自学全网最全资料。
 #### 适合人群：想要深挖指针与内存
 
 
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">01 数据存储</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483941&idx=1&sn=de00219bee72cb8359492bdfb23f09ce&chksm=9b51a9b4ac2620a204daa3dd3e2109ce1f6008774d18be45d2e8816259b1ce5084be3331e569&scene=21#wechat_redirect">02 指针进阶 </a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=1&sn=25a1160599c122a40981e6b15108fd4d&chksm=9b51a919ac26200f6e5a7f9892d9a6fb335ce92dc81f90fff28f0666722538942721666610a7&scene=21#wechat_redirect">03 字符串函数与内存函数 </a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=2&sn=b0efd5aba03ee66785215f4962574e9a&chksm=9b51a919ac26200f2a66409f40198cb4a2e037c6e6ea44833890bd5d62f9705e1892f06cb3cf&scene=21#wechat_redirect">04 内存对齐 </a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=1&sn=7b650d73481e3a2053d4ff8ba22c599f&chksm=9b51a906ac262010c29630cae99a48ead4f097ceb54c963d9477cdb88e77e0553b077f431e9e&scene=21#wechat_redirect">05  动态内存管理</a>
-#### <a href="#"> </a>
+ <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">01 数据存储</a>
+
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483941&idx=1&sn=de00219bee72cb8359492bdfb23f09ce&chksm=9b51a9b4ac2620a204daa3dd3e2109ce1f6008774d18be45d2e8816259b1ce5084be3331e569&scene=21#wechat_redirect">02 指针进阶 </a>
+ 
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=1&sn=25a1160599c122a40981e6b15108fd4d&chksm=9b51a919ac26200f6e5a7f9892d9a6fb335ce92dc81f90fff28f0666722538942721666610a7&scene=21#wechat_redirect">03 字符串函数与内存函数 </a>
+ 
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=2&sn=b0efd5aba03ee66785215f4962574e9a&chksm=9b51a919ac26200f2a66409f40198cb4a2e037c6e6ea44833890bd5d62f9705e1892f06cb3cf&scene=21#wechat_redirect">04 内存对齐 </a>
+ 
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=1&sn=7b650d73481e3a2053d4ff8ba22c599f&chksm=9b51a906ac262010c29630cae99a48ead4f097ceb54c963d9477cdb88e77e0553b077f431e9e&scene=21#wechat_redirect">05  动态内存管理</a>
+ 
+<a href="#"> </a>
 
 <br>
 
 ##### 习题
 
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483953&idx=1&sn=ce828f49857ea9ee9c5867bdd8da4b0b&chksm=9b51a9a0ac2620b68cb088f20663dc2f050020f0f55b4aad2184cc087ea80c80655e92dcbb2d&scene=21#wechat_redirect"> 习题一</a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484031&idx=1&sn=bac544d518e0fece10e788122d5fed7a&chksm=9b51a9eeac2620f840317d0860560ed9c5af586d215d5dfd06bd81bcef5db96cfbde71e5d772&scene=21#wechat_redirect">习题二 </a>
-#### <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484012&idx=1&sn=504becb6eb2d3939b16109b5f388ca1e&chksm=9b51a9fdac2620eb0e6addf0b98c44391cdc5ed0bb6f3c72d52e61edb1505d5f9503c5d3038c&scene=21#wechat_redirect">小项目：C 语言实现的简易版通讯录 </a>
-#### <a href="#"> </a>
+ <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483953&idx=1&sn=ce828f49857ea9ee9c5867bdd8da4b0b&chksm=9b51a9a0ac2620b68cb088f20663dc2f050020f0f55b4aad2184cc087ea80c80655e92dcbb2d&scene=21#wechat_redirect"> 习题一</a>
+
+<a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484031&idx=1&sn=bac544d518e0fece10e788122d5fed7a&chksm=9b51a9eeac2620f840317d0860560ed9c5af586d215d5dfd06bd81bcef5db96cfbde71e5d772&scene=21#wechat_redirect">习题二 </a>
+
+ <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484012&idx=1&sn=504becb6eb2d3939b16109b5f388ca1e&chksm=9b51a9fdac2620eb0e6addf0b98c44391cdc5ed0bb6f3c72d52e61edb1505d5f9503c5d3038c&scene=21#wechat_redirect">小项目：C 语言实现的简易版通讯录 </a>
+ 
+<a href="#"> </a>
 
 </div>
 
-<div id="answer">
-
-<br>
-
-
-### 答案
-
-***
-
-
-<br>
-
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/C_Crash_Couse">入门到精通篇答案</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/advanced%20C">进阶篇答案</a>
-#### <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/code/answear/CMOOC">慕课篇答案</a>
-
-</div>
 
 </div>
 
