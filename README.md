@@ -35,7 +35,9 @@ C 语言详细教学。
 ## 导航 Navigation 
 
 <a  href="#catalogue">快速入门 —— C 语言基础 </a>
-<a href="#book">多读好书 —— C 语言读书笔记</a>
+
+<a href="#book">多读好书 —— 读书笔记</a>
+
 <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
 	
 </div>
@@ -46,6 +48,7 @@ C 语言详细教学。
 
 <div id="catalogue">
 
+### 快速入门 —— C 语言基础 
 
 ###  一  认识 C 语言
 
@@ -125,7 +128,7 @@ C 语言详细教学。
 
 ### 补充
 
--  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">01 数据存储</a>
+-  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">数据存储</a>
 
  <a href=""></a>
 
@@ -139,6 +142,7 @@ C 语言详细教学。
 <br>
 
 
+### 多读好书 —— 读书笔记
 
 <div id="book">
 ***
