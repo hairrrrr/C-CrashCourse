@@ -40,6 +40,8 @@ C 语言详细教学。
 
 <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
 
+<a href="#game">快乐编程——C 语言小游戏</a>
+
 <a href="#get">免费获取学习 C 语言必读的经典</a>
 	
 </div>
@@ -114,7 +116,7 @@ C 语言详细教学。
 - <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=2&sn=b0efd5aba03ee66785215f4962574e9a&chksm=9b51a919ac26200f2a66409f40198cb4a2e037c6e6ea44833890bd5d62f9705e1892f06cb3cf&scene=21#wechat_redirect">内存对齐 </a>
 
 #### 十六 指针的高级应用
-
+-  <a href="https://mp.weixin.qq.com/s/9nXO9i8AXbMZ5fyckLjp5A">初识 malloc </a>
 - <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=1&sn=7b650d73481e3a2053d4ff8ba22c599f&chksm=9b51a906ac262010c29630cae99a48ead4f097ceb54c963d9477cdb88e77e0553b077f431e9e&scene=21#wechat_redirect">动态内存管理</a>
 
 #### 十七 声明
@@ -133,9 +135,10 @@ C 语言详细教学。
 #### 补充
 
 -  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">数据存储</a>
-
- <a href=""></a>
-
+- <a href="https://mp.weixin.qq.com/s/AQAoEnOAJ84HTZeIhSZVrA">素数的判断</a>
+ 
+<a href=""></a>
+<a href=""></a>
 </div>
 
 
@@ -158,6 +161,16 @@ C 语言详细教学。
 
 </div>
 
+
+<br>
+
+<div id="game">
+### 快乐编程——C 语言小游戏
+- <a href="https://mp.weixin.qq.com/s/1-F_3AoPidsblkSr3aAxDg">猜数</a>
+
+
+
+</div>
 
 
 
