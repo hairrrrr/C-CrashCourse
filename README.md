@@ -39,7 +39,7 @@ C 语言详细教学。
 3. <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
 4. <a href="#game">C 语言小游戏</a>
 5. <a href="#get">免费获取 C 语言必读经典电子书</a>
-	
+
 </div>
 
 <div>
@@ -132,7 +132,7 @@ C 语言详细教学。
 
 -  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">数据存储</a>
 - <a href="https://mp.weixin.qq.com/s/AQAoEnOAJ84HTZeIhSZVrA">素数的判断</a>
- 
+
 <a href=""></a>
 <a href=""></a>
 </div>
@@ -148,7 +148,6 @@ C 语言详细教学。
 ### 读书笔记
 
 <div id="book">
-
 ***
 
 <a href=""></a>
@@ -208,7 +207,8 @@ C 语言详细教学。
 <div id="get">
 如果侵权，请联系我的邮箱 shepardwang2020@outlook.com，我会第一时间删除
 
-下面的书已经收集，并且还在持续增加。如果对你有帮助，请点一个 star ~ ，让更多的人获得帮助。
+下面的书已经收集，并且本仓库还在持续增加电子书。如果对你有帮助，请点一个 star ~ ，让更多的人获得帮助。
+
 - 《C 语言程序设计——现代方法》
 - 《C Primer Plus》
 - 《C primer Plus 第五版课后习题答案》
