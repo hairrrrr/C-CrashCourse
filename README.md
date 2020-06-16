@@ -34,15 +34,11 @@ C 语言详细教学。
 
 ## 导航 Navigation 
 
-<a  href="#catalogue">快速入门 —— C 语言基础 </a>
-
-<a href="#book">多读好书 —— 读书笔记</a>
-
-<a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
-
-<a href="#game">快乐编程——C 语言小游戏</a>
-
-<a href="#get">免费获取学习 C 语言必读的经典</a>
+1.  <a  href="#catalogue">C 语言基础 </a>
+2. <a href="#book">读书笔记</a>
+3. <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
+4. <a href="#game">C 语言小游戏</a>
+5. <a href="#get">免费获取 C 语言必读经典电子书</a>
 	
 </div>
 
@@ -52,7 +48,7 @@ C 语言详细教学。
 
 <div id="catalogue">
 
-### 快速入门 —— C 语言基础 
+### C 语言基础 
 
 ***
 
@@ -149,7 +145,7 @@ C 语言详细教学。
 <br>
 
 
-### 多读好书 —— 读书笔记
+### 读书笔记
 
 <div id="book">
 
@@ -165,7 +161,9 @@ C 语言详细教学。
 <br>
 
 <div id="game">
-### 快乐编程——C 语言小游戏
+
+### C 语言小游戏
+
 - <a href="https://mp.weixin.qq.com/s/1-F_3AoPidsblkSr3aAxDg">猜数</a>
 
 
@@ -203,6 +201,8 @@ C 语言详细教学。
 
 
 
+## 免费获取 C 语言必读经典电子书
+
 <div id="get">
 如果侵权，请联系我的邮箱 shepardwang2020@outlook.com，我会第一时间删除
 
@@ -214,6 +214,7 @@ C 语言详细教学。
 - 《C 专家编程》
 - 《C 和 指针》
 - 《C 程序设计》（谭浩强）
+
 获取方式：**关注微信公众号【不会编程的程序圆】** ，后台回复  **【c】** ，即可获得下载链接
 
 </div>
