@@ -50,6 +50,8 @@ C 语言详细教学。
 
 ### 快速入门 —— C 语言基础 
 
+***
+
 ###  一  认识 C 语言
 
 - <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">C 语言概述</a>
@@ -145,8 +147,10 @@ C 语言详细教学。
 ### 多读好书 —— 读书笔记
 
 <div id="book">
+
 ***
- <a href=""></a>
+
+<a href=""></a>
 
 
 
