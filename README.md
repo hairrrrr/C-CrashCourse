@@ -39,6 +39,8 @@ C 语言详细教学。
 <a href="#book">多读好书 —— 读书笔记</a>
 
 <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
+
+<a href="#get">免费获取学习 C 语言必读的经典</a>
 	
 </div>
 
@@ -185,3 +187,24 @@ C 语言详细教学。
 - 《C 专家编程》
 - www.cppreference.com
 - www.cplusplus.com
+
+
+
+<div id="get">
+如果侵权，请联系我的邮箱 shepardwang2020@outlook.com，我会第一时间删除
+
+下面的书已经收集，并且还在持续增加。如果对你有帮助，请点一个 star ~ ，让更多的人获得帮助。
+- 《C 语言程序设计——现代方法》
+- 《C Primer Plus》
+- 《C primer Plus 第五版课后习题答案》
+- 《C 陷阱与缺陷》
+- 《C 专家编程》
+- 《C 和 指针》
+- 《C 程序设计》（谭浩强）
+获取方式：**关注微信公众号【不会编程的程序圆】** ，后台回复  **【c】** ，即可获得下载链接
+
+</div>
+
+
+
+
