@@ -184,8 +184,7 @@ C 语言详细教学。
 	<br><br>
 	微信公众号：不会编程的程序圆
     <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/1.png"></img></p>
-    学习英语关注她，一个四六级都过了的学姐：
-    <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/0.jpg"></img></p>
+
 
 </div>
 
