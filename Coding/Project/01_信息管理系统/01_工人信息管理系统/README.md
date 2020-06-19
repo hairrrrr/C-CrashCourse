@@ -1,0 +1,1 @@
+讲解见：[https://www.cctechblog.cn/_posts/2020-06-18-%E9%87%8D%E6%B8%A9-C-%E8%AF%AD%E8%A8%80%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/](https://www.cctechblog.cn/_posts/2020-06-18-重温-C-语言课程设计/)
