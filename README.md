@@ -36,9 +36,10 @@ C 语言详细教学。
 
 1.  <a  href="#catalogue">C 语言基础 </a>
 2. <a href="#book">读书笔记</a>
-3. <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">多敲代码 —— 代码仓库</a>
+3. <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">代码仓库</a>
 4. <a href="#game">C 语言小游戏</a>
-5. <a href="#get">免费获取 C 语言必读经典电子书</a>
+5. <a href="#exam">C 语言课程设计作业 </a>
+6. <a href="#get">免费获取 C 语言必读经典电子书</a>
 
 </div>
 
@@ -147,8 +148,19 @@ C 语言详细教学。
 
 ### 读书笔记
 
-<div id="book">
 ***
+
+<div id="book">
+
+#### C 陷阱与缺陷
+
+- <a href="https://mp.weixin.qq.com/s/B8VeUrHv5V50bZGcL9cUBw">一 词法陷阱</a>
+- <a href="https://mp.weixin.qq.com/s/yiSYk5uOybt4mRg9UYiw1w">二 语法陷阱</a>
+- <a href="">三 语义陷阱</a>
+- <a href="https://mp.weixin.qq.com/s/qkcbBbw0iNTnnEg7m511-Q">四 连接</a>
+- <a href="https://mp.weixin.qq.com/s/pVi5N0mShaJBWDPGNjAPVg">五 库函数</a>
+- <a href="https://mp.weixin.qq.com/s/QkO9wYp8M3PqlXwqaMhFBw">六 预处理器</a>
+- <a href="">七 可移植缺陷</a>
 
 <a href=""></a>
 
@@ -167,11 +179,24 @@ C 语言详细教学。
 
 - <a href="https://mp.weixin.qq.com/s/1-F_3AoPidsblkSr3aAxDg">猜数</a>
 
-
+<a href=""></a>
 
 </div>
 
 
+
+</div>
+
+<br>
+
+### C 语言课程设计作业
+
+<div id="exam">
+
+- <a href="https://mp.weixin.qq.com/s/qC0o0Gd7fxFGaCpbJKPdBQ">通讯录（基于文件）</a>
+- <a href="https://mp.weixin.qq.com/s/qen0ub82GCcF4s7RiE0C0A">信息管理系统（基于文件）</a>
+
+<a href=""></a>
 
 </div>
 
