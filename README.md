@@ -156,11 +156,11 @@ C 语言详细教学。
 
 - <a href="https://mp.weixin.qq.com/s/B8VeUrHv5V50bZGcL9cUBw">一 词法陷阱</a>
 - <a href="https://mp.weixin.qq.com/s/yiSYk5uOybt4mRg9UYiw1w">二 语法陷阱</a>
-- <a href="">三 语义陷阱</a>
+- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247485498&idx=1&sn=af37e1047fd64eb582470bddd44d1e43&chksm=9b51a3abac262abd6fdd0dac1fc34e3f9af9ff1fc71f3bb4621864906fa9e170155b9652dcbd#rd">三 语义陷阱</a>
 - <a href="https://mp.weixin.qq.com/s/qkcbBbw0iNTnnEg7m511-Q">四 连接</a>
 - <a href="https://mp.weixin.qq.com/s/pVi5N0mShaJBWDPGNjAPVg">五 库函数</a>
 - <a href="https://mp.weixin.qq.com/s/QkO9wYp8M3PqlXwqaMhFBw">六 预处理器</a>
-- <a href="">七 可移植缺陷</a>
+- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247485498&idx=2&sn=a142ded1a6f7ac6eecdb667cfe084abf&chksm=9b51a3abac262abdb2cf18542d9996741696bdf559a56ededdea79a6fedaec18ae30983ef717&scene=21#wechat_redirect">七 可移植缺陷</a>
 
 <a href=""></a>
 
