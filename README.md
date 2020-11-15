@@ -157,7 +157,7 @@ C 语言详细教学。
 
 | 练习                                                      | 介绍                                                         | 难度    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------- |
-| **1**.[常见字符串/内存函数实现](./Coding\Practice\string) | 主要实现：`strlen/strcpy/strcmp/strcat/strstr/memcpy/memmove` | ::star: |
+| **1**.[常见字符串/内存函数实现](./Coding/Practice/string) | 主要实现：`strlen/strcpy/strcmp/strcat/strstr/memcpy/memmove` | ::star: |
 | **2**.[]()                                                |                                                              |         |
 | **3**.[]()                                                |                                                              |         |
 
