@@ -17,7 +17,7 @@ C 语言详细教学。
 <br>
 
 <div align="center">
-    <img src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/logo/logo.png" width="200px">
+    <img src="https://hairrrrr.github.io/assets/logo.png" width="200px">
 </div>
 
 <br>
@@ -36,7 +36,7 @@ C 语言详细教学。
 
 1.  <a  href="#catalogue">C 语言基础 </a>
 2. <a href="#book">读书笔记</a>
-3. <a href="https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding">代码仓库</a>
+3. <a href="#practice">代码练习</a>
 4. <a href="#game">C 语言小游戏</a>
 5. <a href="#exam">C 语言课程设计作业 </a>
 6. <a href="#get">免费获取 C 语言必读经典电子书</a>
@@ -145,6 +145,25 @@ C 语言详细教学。
 
 <br>
 
+### 代码练习
+
+***
+
+<div id="practice">
+
+- <a href="">常见字符串/内存函数实现</a>
+- <a href=""></a>
+- <a href=""></a>
+
+| 练习                                                      | 介绍                                                         | 难度    |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ------- |
+| **1**.[常见字符串/内存函数实现](./Coding\Practice\string) | 主要实现：`strlen/strcpy/strcmp/strcat/strstr/memcpy/memmove` | ::star: |
+| **2**.[]()                                                |                                                              |         |
+| **3**.[]()                                                |                                                              |         |
+
+</div>
+
+</br>
 
 ### 读书笔记
 
@@ -210,7 +229,8 @@ C 语言详细教学。
 	<a href="https://www.zhihu.com/people/wang-ni-ma-46-25"> 知乎 </a> / <a href="https://blog.csdn.net/qq_44954010"> CSDN </a> / <a href="https://www.jianshu.com/u/30f0dcfc671c"> 简书 </a> 
 	<br><br>
 	微信公众号：不会编程的程序圆
-    <p><img width="320px" src="https://github.com/hairrrrr/C-CrashCourse/blob/master/img/QR%20Code/1.png"></img></p>
+    <p><img width="320px" src="https://hairrrrr.github.io/assets/gongzhonghao.png"></img></p>
+
 
 
 </div>
