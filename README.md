@@ -155,8 +155,8 @@ C 语言详细教学。
 | 练习                                                         | 介绍                                                         | 难度               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
 | **1**.[常见字符串/内存函数实现](./Coding/Practice/string)    | 主要实现：`strlen/strcpy/strcmp/strcat/strstr/memcpy/memmove` | :star::star::star: |
-| **2**.[账簿计算](./Coding/C_Crash_Course/01 Examples/06 循环/01 账簿计算) | 练习循环的使用（`while, switch`）                            | :star:             |
-| **3**.[计算利息 && 发牌](./Coding/C_Crash_Course/01 Examples/08 数组) | 练习数组的使用                                               | :star:             |
+| **2**.[账簿计算](https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding/C_Crash_Course/01%20Examples/06%20%E5%BE%AA%E7%8E%AF/01%20%E8%B4%A6%E7%B0%BF%E8%AE%A1%E7%AE%97) | 练习循环的使用（`while, switch`）                            | :star:             |
+| **3**.[计算利息 && 发牌](https://github.com/hairrrrr/C-CrashCourse/tree/master/Coding/C_Crash_Course/01%20Examples/08%20%E6%95%B0%E7%BB%84) | 练习数组的使用                                               | :star:             |
 | **4**.[]()                                                   |                                                              |                    |
 | **5**.[]()                                                   |                                                              |                    |
 | **6**.[]()                                                   |                                                              |                    |
