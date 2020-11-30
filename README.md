@@ -1,4 +1,4 @@
-## 介绍  Introduce
+## 介绍 
 
 帮助 C 语言初学者的从入门到“精通”
 
@@ -17,7 +17,7 @@
 
 <br>
 
-## 声明  License
+## 声明  
 
 本仓库内容除了少部分引用书籍和技术文档的部分内容（均在文中末尾指出），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
 
@@ -27,10 +27,10 @@
 
 <div>
 
-## 导航 Navigation 
+## 导航
 
 1.  <a  href="#catalogue">学习 C 语言</a>
-2. <a href="#book">读书笔记</a>
+2. <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/other/Q%26A.md">C 语言 Q&A</a>
 3. <a href="#practice">C 经典练习题</a>
 4. <a href="#game">用 C 实现的小游戏</a>
 5. <a href="#exam">C 课程设计作业 </a>
@@ -38,100 +38,89 @@
 
 </div>
 
-<div>
-
-## 目录  Catalogue
-
 <div id="catalogue">
 
-### 学习 C 语言
-
-***
-
-####  一  认识 C 语言
-
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483843&idx=1&sn=6472d6f2bfd39d4907e6b857b7b0df95&chksm=9b51aa52ac262344189df3e80b258558260632dc4be379fe324900792e58e75b123f950f1245&scene=21#wechat_redirect">C 语言概述</a>
-
-#### 二  基本概念
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483896&idx=1&sn=e994c80cba804adf59b4aa284d34168d&chksm=9b51aa69ac26237fa0944591978f64e074412312c8daca355de1c7bf40198c9035abb4b73e8d&scene=21#wechat_redirect">基本概念（上）</a>
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483914&idx=1&sn=3a4e7c56344ba229fe1c346a7082f92f&chksm=9b51a99bac26208dd30f8fd630252d9ef246630482214242d97106058fd8d9a3a58efa217e2b&scene=21#wechat_redirect">基本概念（下）</a>
-
-#### 三  格式化输入输出
-
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=1&sn=f5d2bd63a580ed88487c07e4339ce889&chksm=9b51a954ac262042e5500703ce57d72db75b345383de55de61a942a5974f7661b7b491265cb6&scene=21#wechat_redirect">格式化输入/输出</a>
-
-#### 四  数据类型
-
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484101&idx=2&sn=3cf5d4ff5c506cf95c40a5ad8f0c41fd&chksm=9b51a954ac26204249072758935b7778db1644f0055c874e81f82c716f9c24872ee505767b83&scene=21#wechat_redirect">数据类型</a>
-
-#### 五  运算符
-
-- [运算符](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=2&sn=5601148e1ea9ccffc8781b1fa00f31d1&chksm=9b51a906ac2620100bfa39e5e1154f0faf1a0736649b49e8285ee20899302587d8cd88cb7ea4&scene=21#wechat_redirect)
-
-#### 六  选择语句
-
-#### 七  循环
-
-#### 八 数组
-
-- [反思数组](https://mp.weixin.qq.com/s/Pny_UjBD-4qBCnNAy13OFQ) 
-
-#### 九 函数
-
-- [反思函数](https://mp.weixin.qq.com/s/JEalmGOwNXp9IM0W7B7YJw)
-
-#### 十 程序结构
-
-- [初探程序结构](https://mp.weixin.qq.com/s/YLNJsWLhDyO7wxTqg-wShw)
-
-#### 十一 指针
-
- - [基础](https://mp.weixin.qq.com/s/x3un4tnaHSISUfP8n3V_6g)
- - [运算](https://mp.weixin.qq.com/s/q0b1ib15FXeEr8hjUhU9ew)
- - [const](https://mp.weixin.qq.com/s/Fc-sAgpXmJ1eVKufZCvN8A)
- - <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483941&idx=1&sn=de00219bee72cb8359492bdfb23f09ce&chksm=9b51a9b4ac2620a204daa3dd3e2109ce1f6008774d18be45d2e8816259b1ce5084be3331e569&scene=21#wechat_redirect">指针进阶 </a>
+## 学习 C 语言
 
 
-#### 十二 字符串
 
- -  [基础](https://mp.weixin.qq.com/s/FSQm1GroRFfnQDSCiKf5dg)
- -  [常用字符串函数详解](https://mp.weixin.qq.com/s/CrInWDeD5k_XNvPzcgI06Q)
- -  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=1&sn=25a1160599c122a40981e6b15108fd4d&chksm=9b51a919ac26200f6e5a7f9892d9a6fb335ce92dc81f90fff28f0666722538942721666610a7&scene=21#wechat_redirect">字符串函数与内存函数 </a>
+### C 语言程序设计——现代方法 导读
 
-#### 十三 预处理器
+这一部分的内容主要摘录自 《C 语言程序设计——现代方法》
 
-#### 十四 编写大型程序
+1. [C语言概述](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/01-C%E8%AF%AD%E8%A8%80%E6%A6%82%E8%AE%BA.md)
+2. [C语言基本概念1](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/02-C%E8%AF%AD%E8%A8%80%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+3. [C语言基本概念2](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/03-C%E8%AF%AD%E8%A8%80%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+4. [格式化输入输出](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/04-%E6%A0%BC%E5%BC%8F%E5%8C%96%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA.md)
+5. [数据类型](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/05-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
+6. [表达式](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/06-%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+7. [选择语句](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/07-%E9%80%89%E6%8B%A9%E8%AF%AD%E5%8F%A5.md)
+8. [循环](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/08-%E5%BE%AA%E7%8E%AF.md)
+9. [数组](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/09-%E6%95%B0%E7%BB%84.md)
+10. [函数](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/10-%E5%87%BD%E6%95%B0.md)
+11. [程序结构](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/11-%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84.md)
+12. [指针](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/12-%E6%8C%87%E9%92%88.md)
+13. [指针和数组](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/13-%E6%8C%87%E9%92%88%E5%92%8C%E6%95%B0%E7%BB%84.md)
+14. [字符串](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/14-%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+15. [预处理器](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/15-%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8.md)
+16. [编写大型程序](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/16-%E7%BC%96%E5%86%99%E5%A4%A7%E5%9E%8B%E7%A8%8B%E5%BA%8F.md)
+17. [结构&联合&枚举](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/17-%E7%BB%93%E6%9E%84%26%E8%81%94%E5%90%88%26%E6%9E%9A%E4%B8%BE.md)
+18. [指针的高级应用](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/18-%E6%8C%87%E9%92%88%E7%9A%84%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8.md)
+19. [声明](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/19-%E5%A3%B0%E6%98%8E.md)
+20. [程序设计](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/20-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
+21. [底层程序设计](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/21-%E5%BA%95%E5%B1%82%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
+22. [输入/输出](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/22-%E8%BE%93%E5%87%BA%26%E8%BE%93%E5%87%BA.md)
+23. [标准库](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/23-%E6%A0%87%E5%87%86%E5%BA%93.md)
+24. [错误处理](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-mordern-approch/24-%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86.md)
 
-#### 十五 结构 联合 枚举
-
-- [初探](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483829&idx=1&sn=1e1420548b80bdd3d70ba1078fb29b70&chksm=9b51aa24ac262332a074bf0018e8ef4e2b4a7d732a57828714d0fcbddc9cb5fb2823427bc58b&scene=21#wechat_redirect)
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484040&idx=2&sn=b0efd5aba03ee66785215f4962574e9a&chksm=9b51a919ac26200f2a66409f40198cb4a2e037c6e6ea44833890bd5d62f9705e1892f06cb3cf&scene=21#wechat_redirect">内存对齐 </a>
-
-#### 十六 指针的高级应用
--  <a href="https://mp.weixin.qq.com/s/9nXO9i8AXbMZ5fyckLjp5A">初识 malloc </a>
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=1&sn=7b650d73481e3a2053d4ff8ba22c599f&chksm=9b51a906ac262010c29630cae99a48ead4f097ceb54c963d9477cdb88e77e0553b077f431e9e&scene=21#wechat_redirect">动态内存管理</a>
-
-#### 十七 声明
-
-#### 十八 程序设计
-
-#### 十九 底层程序设计
-
-#### 二十 文件
-
-- [初识文件](http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247484055&idx=3&sn=79d7d042b7e94221d38b6fc326d59d32&chksm=9b51a906ac2620100030cf57648bb4810eba0f5d180ba4f59349edcff4d9d673ad53dd2d5da5&scene=21#wechat_redirect)
-
-
-#### 二十一 错误处理
-
-#### 补充
-
--  <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247483926&idx=1&sn=fe52c5b341a4c1d0217730ba3b701bb6&chksm=9b51a987ac262091c4c442c4ce6aeafddd6817eefdc5735e0ff3225f85b0cb9617c74a08631b&scene=21#wechat_redirect">数据存储</a>
-- <a href="https://mp.weixin.qq.com/s/AQAoEnOAJ84HTZeIhSZVrA">素数的判断</a>
-
-<a href=""></a>
-<a href=""></a>
 </div>
+
+C 语言初阶和进阶的内容来自我的博客
+
+### C 语言初阶
+
+这一部分是我对 C 语言的基础知识部分的总结。
+
+1. [数据类型和变量](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/1-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%8F%98%E9%87%8F.md)
+2. [数组](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/2-%E6%95%B0%E7%BB%84.md)
+3. [分支和循环](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/3-%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF.md)
+4. [函数](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/4-%E5%87%BD%E6%95%B0.md)
+5. [指针](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/5-%E6%8C%87%E9%92%88.md)
+6. [操作符](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-review/6-%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
+
+### C 语言进阶
+
+1. [5分钟看懂什么是 malloc](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/5%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E4%BB%80%E4%B9%88%E6%98%AF%20malloc.md)
+2. [C语言 文件 看这一篇就够了](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/C%E8%AF%AD%E8%A8%80%20%E6%96%87%E4%BB%B6%20%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
+3. [一篇看懂 C语言常用 字符串函数，全网最全整理](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E4%B8%80%E7%AF%87%E7%9C%8B%E6%87%82%20C%E8%AF%AD%E8%A8%80%E5%B8%B8%E7%94%A8%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0%EF%BC%8C%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%B4%E7%90%86%EF%BC%81.md)
+4. [什么 是 枚举 & 结构 & 联合，看这一篇就够了](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E4%BB%80%E4%B9%88%20%E6%98%AF%20%E6%9E%9A%E4%B8%BE%20%26%20%E7%BB%93%E6%9E%84%20%26%20%E8%81%94%E5%90%88%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
+5. [什么是 全局变量 & 宏 & 大程序怎么写，看这一篇就够了](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E4%BB%80%E4%B9%88%E6%98%AF%20%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%20%26%20%E5%AE%8F%20%26%20%E5%A4%A7%E7%A8%8B%E5%BA%8F%E6%80%8E%E4%B9%88%E5%86%99%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
+6. [你不知道的几种素数判断方法，由浅入深，详解.](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8D%E7%B4%A0%E6%95%B0%E5%88%A4%E6%96%AD%E6%96%B9%E6%B3%95%EF%BC%8C%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1%EF%BC%8C%E8%AF%A6%E8%A7%A3.md)
+7. [关于字符串你不知道的知识点](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E5%85%B3%E4%BA%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+8. [内存对齐](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E5%86%85%E5%AD%98%E5%AF%B9%E9%BD%90.md)
+9. [动态内存管理](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)
+10. [字符串函数与内存函数](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0%E4%B8%8E%E5%86%85%E5%AD%98%E5%87%BD%E6%95%B0.md)
+11. [小端和整型存储](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E5%B0%8F%E7%AB%AF%E5%92%8C%E6%95%B4%E5%9E%8B%E5%AD%98%E5%82%A8.md)
+12. [指针进阶](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E6%8C%87%E9%92%88%E8%BF%9B%E9%98%B6.md)
+13. [有关指针](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E6%9C%89%E5%85%B3%E6%8C%87%E9%92%88.md)
+14. [浅谈 C 语言实现重载，多态和模板](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E6%B5%85%E8%B0%88%20C%20%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E9%87%8D%E8%BD%BD%EF%BC%8C%E5%A4%9A%E6%80%81%E5%92%8C%E6%A8%A1%E6%9D%BF.md)
+15. [这些关于数组的基础知识点你都知道吗](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E8%BF%99%E4%BA%9B%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9%E4%BD%A0%E9%83%BD%E7%9F%A5%E9%81%93%E5%90%97.md)
+16. [那些关于函数我们容易忽略的基础知识](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-notes/%E9%82%A3%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%87%BD%E6%95%B0%E6%88%91%E4%BB%AC%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+
+
+
+### C 陷阱与缺陷
+
+这一部分内容来自 《C 陷阱与缺陷》，看完这本书我对我之前犯的错误一种醍醐灌顶的感觉。
+
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/01%20%E8%AF%8D%E6%B3%95%E9%99%B7%E9%98%B1.md">一 词法陷阱</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/02%20%E8%AF%AD%E6%B3%95%E9%99%B7%E9%98%B1.md">二 语法陷阱</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/03%20%E8%AF%AD%E4%B9%89%E9%99%B7%E9%98%B1.md">三 语义陷阱</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/04%20%E8%BF%9E%E6%8E%A5.md">四 连接</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/05%20%E5%BA%93%E5%87%BD%E6%95%B0.md">五 库函数</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/06%20%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8.md">六 预处理器</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/07%20%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E7%BC%BA%E9%99%B7.md">七 可移植缺陷</a>
+- [八 建议](https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-traps-and-pitfalls/08%20%E5%BB%BA%E8%AE%AE.md)
 
 
 
@@ -177,30 +166,8 @@
 
 
 
-### 读书笔记
-
-***
-
-<div id="book">
-
-#### C 陷阱与缺陷
-
-- <a href="https://mp.weixin.qq.com/s/B8VeUrHv5V50bZGcL9cUBw">一 词法陷阱</a>
-- <a href="https://mp.weixin.qq.com/s/yiSYk5uOybt4mRg9UYiw1w">二 语法陷阱</a>
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247485498&idx=1&sn=af37e1047fd64eb582470bddd44d1e43&chksm=9b51a3abac262abd6fdd0dac1fc34e3f9af9ff1fc71f3bb4621864906fa9e170155b9652dcbd#rd">三 语义陷阱</a>
-- <a href="https://mp.weixin.qq.com/s/qkcbBbw0iNTnnEg7m511-Q">四 连接</a>
-- <a href="https://mp.weixin.qq.com/s/pVi5N0mShaJBWDPGNjAPVg">五 库函数</a>
-- <a href="https://mp.weixin.qq.com/s/QkO9wYp8M3PqlXwqaMhFBw">六 预处理器</a>
-- <a href="http://mp.weixin.qq.com/s?__biz=MzAxMDQwMzU4Mg==&mid=2247485498&idx=2&sn=a142ded1a6f7ac6eecdb667cfe084abf&chksm=9b51a3abac262abdb2cf18542d9996741696bdf559a56ededdea79a6fedaec18ae30983ef717&scene=21#wechat_redirect">七 可移植缺陷</a>
-
-<a href=""></a>
 
 
-
-</div>
-
-
-<br>
 
 <div id="game">
 
@@ -208,7 +175,7 @@
 
 ***
 
-- <a href="https://mp.weixin.qq.com/s/1-F_3AoPidsblkSr3aAxDg">猜数</a>
+- <a href="https://github.com/hairrrrr/C-CrashCourse/blob/master/content/c-games/%E7%8C%9C%E6%95%B0%E5%AD%97.md">猜数</a>
 
 <a href=""></a>
 
@@ -235,17 +202,8 @@
 
 <br>
 
-## 关于我 About Me
-<div id = "weixin" align="center">
-<p>我的社交平台</p>
-	<a href="https://www.zhihu.com/people/wang-ni-ma-46-25"> 知乎 </a> / <a href="https://blog.csdn.net/qq_44954010"> CSDN </a> / <a href="https://www.jianshu.com/u/30f0dcfc671c"> 简书 </a> 
-	<br><br>
-	微信公众号：不会编程的程序圆
-    <p><img width="320px" src="https://hairrrrr.github.io/assets/gongzhonghao.png"></img></p>
 
 
-
-</div>
 
 
 ## 参考资料
