@@ -1,16 +1,11 @@
 ## 介绍  Introduce
 
-C语言必知必会系列教程。
-
-C 语言详细教学。
-
-欢迎关注我的公众号：【不会编程的程序圆】，看更多干货。
+帮助 C 语言初学者的从入门到“精通”
 
 <br>
 
 <div align="center">
     <a href="#"> <img src="https://img.shields.io/badge/language-C-orange"></a>
-    <a href="#weixin"> <img src="https://img.shields.io/badge/QQ%E7%BE%A4%E5%8F%B7-1040522517-blue"></a>
     <a href="#weixin"> <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%B8%8D%E4%BC%9A%E7%BC%96%E7%A8%8B%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%9C%86-blue"></a>
 </div>
 
@@ -26,7 +21,7 @@ C 语言详细教学。
 
 本仓库内容除了少部分引用书籍和技术文档的部分内容（均在文中末尾指出），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
 
-转载文章请在开头明显处标明该页面地址。公众号等其它盈利性质的转载请联系 2823666460@qq.com。
+转载文章请在开头明显处标明该页面地址。
 
 <br>
 
