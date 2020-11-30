@@ -29,11 +29,11 @@
 
 ## 导航 Navigation 
 
-1.  <a  href="#catalogue">C 语言基础 </a>
+1.  <a  href="#catalogue">学习 C 语言</a>
 2. <a href="#book">读书笔记</a>
-3. <a href="#practice">代码练习</a>
-4. <a href="#game">C 语言小游戏</a>
-5. <a href="#exam">C 语言课程设计作业 </a>
+3. <a href="#practice">C 经典练习题</a>
+4. <a href="#game">用 C 实现的小游戏</a>
+5. <a href="#exam">C 课程设计作业 </a>
 6. <a href="#get">免费获取 C 语言必读经典电子书</a>
 
 </div>
@@ -44,7 +44,7 @@
 
 <div id="catalogue">
 
-### C 语言基础 
+### 学习 C 语言
 
 ***
 
@@ -140,7 +140,7 @@
 
 <br>
 
-### 代码练习
+### C 经典练习题
 
 ***
 
@@ -175,6 +175,8 @@
 
 </br>
 
+
+
 ### 读书笔记
 
 ***
@@ -202,7 +204,7 @@
 
 <div id="game">
 
-### C 语言小游戏
+### 用 C 实现的小游戏
 
 ***
 
@@ -218,7 +220,7 @@
 
 <br>
 
-### C 语言课程设计作业
+### C 课程设计作业
 
 ***
 
