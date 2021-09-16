@@ -1,0 +1,68 @@
+#include<iostream>
+using namespace std;
+int money=0;
+int new_money=0;
+void clear() //清楚余额
+{
+money=0;
+
+}
+
+
+void input()//存钱
+{
+cin>>new_money;
+money+=new_money;
+}
+
+void output()//取钱
+{
+cin>>new_money;
+if(new_money<money)
+{
+money-=new_money;
+}
+else
+{
+cout<<"余额不足"<<endl;
+}
+}
+
+void show()//显示余额
+{
+cout<<"当前余额为："<<money<<endl;
+}
+
+void exit()//退出程序
+{
+cout<<"Goodbye~"<<endl;
+}
+
+int main()
+{
+cout<<"welcome"<<endl;
+cout<<"please input your choice!"<<endl;
+cout<<"****************************"<<endl;
+cout<<"*******0、清除余额**********"<<endl;
+cout<<"*******1、账户存钱**********"<<endl;
+cout<<"*******2、账户取钱**********"<<endl;
+cout<<"*******3、显示余额**********"<<endl;
+cout<<"*******4、退出程序**********"<<endl;
+cout<<"****************************"<<endl;
+int num;
+
+do
+{
+cin>>num;
+switch(num)
+	{
+	case 0: clear();break;
+	case 1: input();break;
+	case 2: output();break;
+	case 3: show();break;
+	case 4: exit();break;
+	}
+}while(num!=4);
+return 0;
+
+}
